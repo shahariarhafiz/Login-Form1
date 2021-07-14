@@ -1,0 +1,101 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background: #19BC9D;
+    font-family: 'Anton', sans-serif;
+    
+}
+.head{
+    color: white;
+    max-width: 500px;
+    height: 80px;
+    border-radius: 5px 5px 0 0;
+    text-align:center;
+    margin: 110px auto 0;
+    background: #14A083;
+    
+}
+.head h1{
+    padding: 20px;l
+}
+.main{
+    max-width: 500px;
+    height: 350px;
+    border-radius: 0 0 5px 5px;
+    margin: 0 auto;
+    background: white;
+    text-align: center;
+}
+.icon1 input{
+    width: 300px;
+    height: 30px;
+    padding: 5px;
+    border-radius: 5px;
+}
+.icon3 {
+    width: 300px;
+    height: auto;
+    display: inline-block;
+    margin-top: 10px;
+    text-align: left;
+    color:#19BC9D;
+
+}
+
+.icon2 input{
+    width: 300px;
+    height: 30px;
+    padding: 5px;
+    border-radius: 5px;
+}
+.icon1{
+    padding: 20px;
+}
+.icon4 button{
+    width: 318px;
+    height: 40px;
+    border-radius: 5px;
+    text-align: center;
+    font-size: 20px;
+    background-color: #169F85 ;
+    margin-top: 30px;
+    color: white;
+
+}
+.last{
+    width: 300px;
+    height: 30px;
+    padding: 5px;
+    text-align: center;
+    display: inline-block;
+    margin-top: 15px;
+}
+.last h5{
+    display: inline-block;
+    color: rgba(0, 0, 0, 0.774);
+}
+.last a{
+    text-decoration: none;
+    color: #0ba881;
+}
+.icon4 button:hover{
+    background: #59549c;
+}
+
+.icon3 a{
+    text-decoration: none;
+    color: #19BC9D;
+}
+.icon3 a:hover{
+    color: blue;
+}
+.last a:hover{
+    color:blue;
+}
+.icon1 i{
+    font-size: 25px;
+    color: #0ba881;
+}
+
